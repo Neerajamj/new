@@ -5,7 +5,7 @@ javascript:(function(){
     return;
   }
 
-  function t(t) {
+  function t(t) {//
     e.setValue(t, -1);
   }
 
